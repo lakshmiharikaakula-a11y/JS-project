@@ -2,34 +2,34 @@
     {
         "title":"Fresh Vegetables",
         "image":"https://www.kediaorganic.com/cdn/shop/collections/DSC03590_1_a525d990-e171-4908-9398-c8fbfe80be66.webp?v=1756982322&width=750",
-        "page":"products.html?category=vegetables&title=Fresh%20Vegetables"
+        "page":"Products.html?category=vegetables&title=Fresh%20Vegetables"
     },
 
     {
         "title":"Fresh Fruits",
         "image":"https://www.kediaorganic.com/cdn/shop/collections/DSC03506.jpg?v=1756982034&width=750",
-        "page":"products.html?category=fruits&title=Fresh%20Fruits"
+        "page":"Products.html?category=fruits&title=Fresh%20Fruits"
     },
 
     {
         "title":"Ghee & Oils",
         "image":"https://www.kediaorganic.com/cdn/shop/collections/2_96ff0251-cf93-45ce-96cf-d4e652e75ff3.png?v=1697091938&width=750",
-        "page":"products.html?category=Cold%20Pressed%20Oils,Ghee,Combo%20Packs&title=Ghee%20%26%20Oils"
+        "page":"Products.html?category=Cold%20Pressed%20Oils,Ghee,Combo%20Packs&title=Ghee%20%26%20Oils"
     },
 
     {
         "title":"Pulses & Dals",
         "image":"https://www.kediaorganic.com/cdn/shop/collections/8_fedc339c-7292-4f49-9cdb-7a54ef781628.png?v=1697091522&width=750",
-        "page":"products.html?category=Dals,Pulses%20%26%20Cereals&title=Dals%20%26%20Pulses"
+        "page":"Products.html?category=Dals,Pulses%20%26%20Cereals&title=Dals%20%26%20Pulses"
     },
     {
         "title":"Cold Pressed Juices",
         "image":"https://www.kediaorganic.com/cdn/shop/collections/IMG_20220313_103901__01_3b78099c-4594-4f29-9e46-9e9bc88a9e06.jpg?v=1753957783&width=750",
-        "page":"products.html?category=coldpressedjuices&title=Cold%20Pressed%20Juices"
+        "page":"Products.html?category=coldpressedjuices&title=Cold%20Pressed%20Juices"
     },
     {
         "title":"Whole & Ground spices",
         "image":"https://www.kediaorganic.com/cdn/shop/collections/7_63946d74-951c-4322-b9f4-8ae36b8ac13b.png?v=1697091439&width=750",
-        "page":"products.html?category=spices&title=Whole%20%26%20Ground%20Spices"
+        "page":"Products.html?category=spices&title=Whole%20%26%20Ground%20Spices"
     }
 ]
