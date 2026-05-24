@@ -54,6 +54,10 @@ rightarrow.addEventListener('click',()=>{
         step=(step-1+3)%3;
     show()
 })
+setInterval(() => {
+    step = (step + 1) % 3;
+    show();
+}, 2000);
 //for second nav bar dropdown
 let selected_heading=document.querySelector('.selected');
 let dropdown_container=document.querySelector('.dropdown');
