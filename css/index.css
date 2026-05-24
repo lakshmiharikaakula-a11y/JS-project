@@ -863,7 +863,9 @@ color:rgb(199, 254, 126);
     align-items: center;
     justify-content: center;
     overflow-x: hidden;
+    overflow-y:visible;
     margin-top:50px;
+    padding-top:15px;
     gap:30px;
 }
 .card-carousal{
@@ -880,7 +882,8 @@ color:rgb(199, 254, 126);
     flex-direction:column;
     background:#083d28;
     border-radius:25px;
-    overflow:hidden;
+    /* overflow:hidden; */
+    overflow: visible;
     transition:transform 0.3s ease,
                box-shadow 0.3s ease;
 }
