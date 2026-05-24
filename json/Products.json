@@ -1,0 +1,1167 @@
+[
+  {
+    "id": 1,
+    "name": "Colocasia Leaves / Aloo Wadi Patta",
+    "category": "vegetables",
+    "price": 50,
+    "oldPrice": 60,
+    "discount": 17,
+    "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03347.jpg?v=1697091884&width=360"
+  },
+
+  {
+    "id": 2,
+    "name": "Gooseberry / Amla",
+    "category": "vegetables",
+    "price": 70,
+    "oldPrice": 75,
+    "discount": 7,
+    "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-49.jpg?v=1697093008&width=360"
+  },
+
+  {
+    "id": 3,
+    "name": "Colocasia / Arbi",
+    "category": "vegetables",
+    "price": 60,
+    "oldPrice": 60,
+    "discount": 0,
+    "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03530.jpg?v=1697093125&width=360"
+  },
+
+  {
+    "id": 4,
+    "name": "Has Avocado",
+    "category": "exotic-vegetables",
+    "price": 275,
+    "oldPrice": 300,
+    "discount": 8,
+    "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-16.jpg?v=1697092442&width=360"
+  },
+  {
+    "id": 5,
+    "name": "Avocado Indian",
+    "category": "vegetables",
+    "price": 375,
+    "oldPrice": 375,
+    "discount": 0,
+    "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-17.jpg?v=1697091501&width=360"
+  },
+
+  {
+    "id": 6,
+    "name": "Baby Corn",
+    "category": "vegetables",
+    "price": 70,
+    "oldPrice": 75,
+    "discount": 7,
+    "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-26.jpg?v=1697093134&width=360"
+  },
+
+  {
+    "id": 7,
+    "name": "Baby Potato / Dum Aloo",
+    "category": "vegetables",
+    "price": 40,
+    "oldPrice": 40,
+    "discount": 0,
+    "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-55.jpg?v=1697093066&width=360"
+  },
+
+  {
+    "id": 8,
+    "name": "Banana Raw / Kacha Kela",
+    "category": "vegetables",
+    "price": 40,
+    "oldPrice": 50,
+    "discount": 20,
+    "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03570.jpg?v=1697091772&width=360"
+  },
+
+  {
+    "id": 9,
+    "name": "Basil Leaves",
+    "category": "vegetables",
+    "price": 80,
+    "oldPrice": 125,
+    "discount": 36,
+    "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-2.jpg?v=1697092019&width=360"
+  },
+
+  {
+    "id": 10,
+    "name": "Beetroot / Chukandar",
+    "category": "vegetables",
+    "price": 40,
+    "oldPrice": 50,
+    "discount": 20,
+    "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-53.jpg?v=1697091913&width=360"
+  },
+
+  {
+    "id": 11,
+    "name": "Bitter Gourd / Karela",
+    "category": "vegetables",
+    "price": 40,
+    "oldPrice": 50,
+    "discount": 20,
+    "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-40.jpg?v=1697092026&width=360"
+  },
+
+  {
+    "id": 12,
+    "name": "Bitter Gourd Mini / Chota Karela",
+    "category": "vegetables",
+    "price": 40,
+    "oldPrice": 50,
+    "discount": 20,
+     "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03529.jpg?v=1697091709&width=360"
+  },
+
+  {
+    "id": 13,
+    "name": "Bottle Gourd / Lauki",
+    "category": "vegetables",
+    "price": 70,
+    "oldPrice": 100,
+    "discount": 30,
+     "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-35.jpg?v=1697092512&width=360"
+  },
+
+  {
+    "id": 14,
+    "name": "Brinjal / Baigan Katheri",
+    "category": "vegetables",
+    "price": 40,
+    "oldPrice": 50,
+    "discount": 20,
+     "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image":"https://www.kediaorganic.com/cdn/shop/products/DSC03546.jpg?v=1697090946&width=360"
+  },
+
+  {
+    "id": 15,
+    "name": "Brinjal Big / Bharta Baigan",
+    "category": "vegetables",
+    "price": 60,
+    "oldPrice": 75,
+    "discount": 20,
+     "optionname":"quantity",
+   "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-43.jpg?v=1697092377&width=360"
+  },
+
+  {
+    "id": 16,
+    "name": "Brinjal Green / Baigan Hara",
+    "category": "vegetables",
+    "price": 40,
+    "oldPrice": 50,
+    "discount": 20,
+     "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-42.jpg?v=1697092832&width=360"
+  },
+
+  {
+    "id": 17,
+    "name": "Brinjal Long / Baigan Patla",
+    "category": "vegetables",
+    "price": 40,
+    "oldPrice": 50,
+    "discount": 20,
+     "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-45.jpg?v=1697092296&width=360"
+  },
+
+  {
+    "id": 18,
+    "name": "Brinjal Mini / Baigan Chota",
+    "category": "vegetables",
+    "price": 40,
+    "oldPrice": 50,
+    "discount": 20,
+     "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-44.jpg?v=1697091789&width=360"
+  },
+
+  {
+    "id": 19,
+    "name": "Broccoli",
+    "category": "vegetables",
+    "price": 180,
+    "oldPrice": 200,
+    "discount": 10,
+     "optionname":"quantity",
+   "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-15.jpg?v=1697092133&width=360"
+  },
+  {
+    "id": 20,
+    "name": "Cabbage / Patta Gobi",
+    "category": "vegetables",
+    "price": 110,
+    "oldPrice": 150,
+    "discount": 27,
+     "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-38.jpg?v=1697093091&width=360"
+  },
+  {
+    "id": 101,
+    "name": "Apple Indian",
+    "category": "fruits",
+    "price": 240,
+    "oldPrice": 250,
+    "discount": 4,
+     "optionname":"quantity",
+  "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03412.jpg?v=1697092175&width=360"
+  },
+  {
+    "id": 102,
+    "name": "Pomegranate / Anar",
+    "category": "fruits",
+    "price": 310,
+    "oldPrice": 310,
+    "discount": 0,
+     "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03370.jpg?v=1697092305&width=360"
+  },
+  {
+    "id": 103,
+    "name": "Banana Indian",
+    "category": "fruits",
+    "price": 70,
+    "oldPrice": 75,
+    "discount": 7,
+     "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03359.jpg?v=1697092932&width=360"
+  },
+  {
+    "id": 104,
+    "name": "Papaya / Papita",
+    "category": "fruits",
+    "price": 140,
+    "oldPrice": 200,
+    "discount": 30,
+     "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03362.jpg?v=1697091187&width=360"
+  },
+  {
+    "id": 105,
+    "name": "Alphonso Mango / Hapus",
+    "category": "fruits",
+    "price": 1499,
+    "oldPrice": 2500,
+    "discount": 40,
+     "optionname":"quantity",
+    "image": "https://www.kediaorganic.com/cdn/shop/files/mangokediaonline.jpg?v=1697092777&width=360"
+  },
+
+  {
+    "id": 106,
+    "name": "Watermelon / Tarbuj",
+    "category": "fruits",
+    "price": 270,
+    "oldPrice": 300,
+    "discount": 10,
+     "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03401.jpg?v=1697091063&width=360"
+  },
+
+  {
+    "id": 107,
+    "name": "Chickoo / Sapota",
+    "category": "fruits",
+    "price": 125,
+    "oldPrice": 150,
+    "discount": 17,
+     "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03495.jpg?v=1697091566&width=360"
+  },
+
+  {
+    "id": 108,
+    "name": "Muskmelon / Kharbuja",
+    "category": "fruits",
+    "price": 200,
+    "oldPrice": 200,
+    "discount": 0,
+     "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03479.jpg?v=1697091201&width=360"
+  },
+
+  {
+    "id": 109,
+    "name": "Orange Indian / Desi Santara",
+    "category": "fruits",
+    "price": 140,
+    "oldPrice": 200,
+    "discount": 0,
+     "optionname":"quantity",
+   "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03394.jpg?v=1697092522&width=360"
+  },
+
+  {
+    "id": 110,
+    "name": "Pear Indian",
+    "category": "fruits",
+    "price": 225,
+    "oldPrice": 225,
+    "discount": 0,
+     "optionname":"quantity",
+   "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03421.jpg?v=1697091135&width=360"
+  },
+
+  {
+    "id": 111,
+    "name": "Guava / Peru",
+    "category": "fruits",
+    "price": 110,
+    "oldPrice": 125,
+    "discount": 12,
+    "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03433.jpg?v=1697092084&width=360"
+  },
+
+  {
+    "id": 112,
+    "name": "Blueberry Imported",
+    "category": "imported-fruits",
+    "price": 450,
+    "oldPrice": 500,
+    "discount": 10,
+     "optionname":"quantity",
+   "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03457.jpg?v=1697090907&width=360"
+  },
+
+  {
+    "id": 113,
+    "name": "Strawberry Indian",
+    "category": "fruits",
+    "price": 250,
+    "oldPrice": 350,
+    "discount": 0,
+     "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/strawberry.jpg?v=1710563278"
+  },
+
+  {
+    "id": 114,
+    "name": "Sweet Lime / Mosambi",
+    "category": "fruits",
+    "price": 125,
+    "oldPrice": 150,
+    "discount": 17,
+     "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03380.jpg?v=1697090982&width=360"
+  },
+
+  {
+    "id": 115,
+    "name": "Pineapple Whole / Ananas",
+    "category": "fruits",
+    "price": 225,
+    "oldPrice": 225,
+    "discount": 0,
+     "optionname":"quantity",
+    "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03483.jpg?v=1697091742&width=360"
+  },
+
+  {
+    "id": 116,
+    "name": "Kesar Mango",
+    "category": "fruits",
+    "price": 650,
+    "oldPrice": 750,
+    "discount": 13,
+     "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/KESAR.jpg?v=1697092870&width=360"
+  },
+
+  {
+    "id": 117,
+    "name": "Kiwi Green Imported",
+    "category": "imported-fruits",
+    "price": 225,
+    "oldPrice": 275,
+    "discount": 18,
+     "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/IMG_9359.jpg?v=1697092113&width=360"
+  },
+
+  {
+    "id": 118,
+    "name": "Dragon Fruit White Flesh",
+    "category": "fruits",
+    "price": 225,
+    "oldPrice": 275,
+    "discount": 18,
+     "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03366.jpg?v=1697093145&width=360"
+  },
+
+  {
+    "id": 119,
+    "name": "Valencia Orange Imported",
+    "category": "imported-fruits",
+    "price": 175,
+    "oldPrice": 200,
+    "discount": 13,
+     "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03437.jpg?v=1697091726&width=360"
+  },
+
+  {
+    "id": 120,
+    "name": "Grapes Globe Red Imported",
+    "category": "imported-fruits",
+    "price": 200,
+    "oldPrice": 300,
+    "discount": 33,
+     "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03493.jpg?v=1697091781&width=360"
+  },
+
+  {
+    "id": 121,
+    "name": "Aloo Bukhara / Plum Indian",
+    "category": "fruits",
+    "price": 300,
+    "oldPrice": 400,
+    "discount": 0,
+     "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/ALOOBUKHARA.jpg?v=1697091332"
+  },
+
+  {
+    "id": 122,
+    "name": "Jamun / Black Plum",
+    "category": "fruits",
+    "price": 550,
+    "oldPrice": 550,
+    "discount": 0,
+     "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/download.jpg?v=1697091008"
+  },
+
+  {
+    "id": 123,
+    "name": "Banana Red",
+    "category": "fruits",
+    "price": 175,
+    "oldPrice": 175,
+    "discount": 0,
+     "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03364.jpg?v=1697091735&width=360"
+  },
+
+  {
+    "id": 124,
+    "name": "Grapes Green",
+    "category": "fruits",
+    "price": 300,
+    "oldPrice": 350,
+    "discount": 0,
+     "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/IMG_9348.jpg?v=1697092434&width=360"
+  },
+
+  {
+    "id": 125,
+    "name": "Grapes Black",
+    "category": "fruits",
+    "price": 300,
+    "oldPrice": 350,
+    "discount": 0,
+     "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/IMG_9346.jpg?v=1697091415&width=360"
+  },
+
+  {
+    "id": 126,
+    "name": "Anjeer Fresh / Fig",
+    "category": "fruits",
+    "price": 300,
+    "oldPrice": 500,
+    "discount": 40,
+     "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/IMG_9353.jpg?v=1697091470&width=360"
+  },
+
+  {
+    "id": 127,
+    "name": "Langra Mango",
+    "category": "fruits",
+    "price": 700,
+    "oldPrice": 700,
+    "discount": 0,
+       "optionname":"Dozen",
+    "options":["1dozen","2 dozen","3 dozen"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/langra-mangoes-1000x1000.jpg?v=1697091140&width=360"
+  },
+
+  {
+    "id": 128,
+    "name": "Banana Madras / Nendran",
+    "category": "fruits",
+    "price": 150,
+    "oldPrice": 150,
+    "discount": 0,
+    "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Phase1-63.jpg?v=1697092606&width=360"
+  },
+
+  {
+    "id": 129,
+    "name": "Dasheri Mango",
+    "category": "fruits",
+    "price": 600,
+    "oldPrice": 750,
+    "discount": 20,
+    "optionname":"Dozen",
+    "options":["1dozen","2 dozen","3 dozen"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/download_513aa11e-8f79-4f68-b379-1b084d6eefd9.jpg?v=1697092308"
+  },
+
+  {
+    "id": 130,
+    "name": "Pear Imported",
+    "category": "imported-fruits",
+    "price": 240,
+    "oldPrice": 250,
+    "discount": 4,
+    "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03427.jpg?v=1697092762&width=360"
+  },
+
+  {
+    "id": 131,
+    "name": "Tender Coconut / Nariyal Pani",
+    "category": "fruits",
+    "price": 115,
+    "oldPrice": 125,
+    "discount": 8,
+    "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03491.jpg?v=1697093113&width=360"
+  },
+
+  {
+    "id": 132,
+    "name": "Tangerine Imported",
+    "category": "imported-fruits",
+    "price": 350,
+    "oldPrice": 400,
+    "discount": 13,
+    "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03439.jpg?v=1697092751&width=360"
+  },
+
+  {
+    "id": 133,
+    "name": "Mulberry",
+    "category": "fruits",
+    "price": 200,
+    "oldPrice": 350,
+    "discount": 0,
+    "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/IMAGE-EDIT_b29b7281-f7a2-42a9-923a-5ec22aec8f5f.png?v=1741095526&width=360"
+  },
+  {
+    "id": 134,
+    "name": "Cherry Indian",
+    "category": "fruits",
+    "price": 750,
+    "oldPrice": 750,
+    "discount": 0,
+    "optionname":"quantity",
+     "options":["250gm","500g","1000g"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/7211_Cherry.png?v=1697091974"
+  },
+  {
+    "id": 20,
+    "name": "A2 Gir Cow Bilona Ghee – Own Gaushala Ghee",
+    "category": "Ghee",
+    "price": 800,
+    "oldPrice": 1000,
+    "discount": "20%",
+    "quantity": "500 ML",
+    "reviews": 14,
+    "optionname":"size",
+     "options":["500ml","1lt","2lt"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/250-ghee.jpg?v=1756814835&width=600"
+  },
+  {
+    "id": 21,
+    "name": "Groundnut Oil Cold Pressed - 100% Natural & Farm Fresh",
+    "category": "Cold Pressed Oils",
+    "price": 550,
+    "oldPrice": 550,
+    "discount": "0%",
+    "quantity": "1 Litre",
+     "optionname":"size",
+     "options":["500ml","1lt","2lt"],
+    "reviews": 1,
+    "image": "https://www.kediaorganic.com/cdn/shop/files/groundnut-oil.jpg?v=1756791099&width=600"
+  },
+  {
+    "id": 22,
+    "name": "Sesame Cold Pressed Oil - 100% Natural & Farm Fresh",
+    "category": "Cold Pressed Oils",
+    "price": 600,
+    "oldPrice": 600,
+    "discount": "0%",
+    "quantity": "1 Litre",
+     "optionname":"size",
+     "options":["500ml","1lt","2lt"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/files/sesame-oil.jpg?v=1756791498&width=600"
+  },
+  {
+    "id": 23,
+    "name": "Coconut Cold Pressed Oil - 100% Natural & Farm Fresh",
+    "category": "Cold Pressed Oils",
+    "price": 800,
+    "oldPrice": 800,
+    "discount": "0%",
+    "quantity": "1 Litre",
+     "optionname":"size",
+     "options":["500ml","1lt","2lt"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/files/coconut-oil.jpg?v=1756791136&width=600"
+  },
+  {
+    "id": 24,
+    "name": "Sunflower Cold Pressed Oil - 100% Natural & Farm Fresh",
+    "category": "Cold Pressed Oils",
+    "price": 450,
+    "oldPrice": 500,
+    "discount": "10%",
+    "quantity": "1 Litre",
+     "optionname":"size",
+     "options":["500ml","1lt","2lt"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/1_7703376a-dffa-4517-a7b7-a77daa9bd13f.jpg?v=1697092795&width=600"
+  },
+  {
+    "id": 25,
+    "name": "Mustard Cold Pressed Oil - 100% Natural & Farm Fresh",
+    "category": "Cold Pressed Oils",
+    "price": 425,
+    "oldPrice": 500,
+    "discount": "15%",
+    "quantity": "1 Litre",
+     "optionname":"size",
+     "options":["500ml","1lt","2lt"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Front_40f5a87b-140a-47a3-b16d-4d94780c2782.jpg?v=1697092826&width=600"
+  },
+  {
+    "id": 26,
+    "name": "Olive Cold Pressed Oil - 100% Natural & Farm Fresh",
+    "category": "Cold Pressed Oils",
+    "price": 1600,
+    "oldPrice": 1800,
+    "discount": "11%",
+    "quantity": "1 Litre",
+     "optionname":"size",
+     "options":["500ml","1lt","2lt"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/files/olive-oil.jpg?v=1756791456&width=600"
+  },
+  {
+    "id": 27,
+    "name": "A2 Desi Cow Ghee (500 ml) + Extra Virgin Olive Oil (1 L)",
+    "category": "Combo Packs",
+    "price": 2900,
+    "oldPrice": 3100,
+    "discount": "6%",
+    "quantity": "Combo Pack",
+     "optionname":"size",
+     "options":["500ml","1lt","2lt"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/files/olive-oil.jpg?v=1756791456&width=600"
+  },
+  {
+    "id": 28,
+    "name": "A2 Desi Cow Ghee (500 ml X2) + Extra Virgin Olive Oil (1 L)",
+    "category": "Combo Packs",
+    "price": 4000,
+    "oldPrice": 4300,
+    "discount": "7%",
+    "quantity": "Combo Pack",
+     "optionname":"size",
+     "options":["500ml","1lt","2lt"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/files/virtual-photoshoot-2_1.png?v=1773383252&width=600"
+  },
+  {
+    "id": 29,
+    "name": "A2 Desi Cow Ghee (250 ml) + Extra Virgin Olive Oil (1 L)",
+    "category": "Combo Packs",
+    "price": 2200,
+    "oldPrice": 2400,
+    "discount": "8%",
+    "quantity": "Combo Pack",
+     "optionname":"size",
+     "options":["500ml","1lt","2lt"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/files/virtual-photoshoot-1_13.png?v=1773383586&width=600"
+  },
+  {
+    "id": 30,
+    "name": "Moong Dal Yellow Split - 100% Natural & Farm Fresh",
+    "category": "Dals",
+    "price": 135,
+    "oldPrice": 170,
+    "discount": "21%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/1_f52d6451-f125-403f-adf4-e3fb1a5acb3a.jpg?v=1697092495&width=600"
+  },
+  {
+    "id": 31,
+    "name": "Toor Dal Split (Pigeon Pea) - 100% Natural & Farm Fresh",
+    "category": "Dals",
+    "price": 170,
+    "oldPrice": 200,
+    "discount": "15%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 1,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/1_9d95ec88-0f96-4878-b176-5caac6674d55.jpg?v=1697093002&width=600"
+  },
+  {
+    "id": 32,
+    "name": "Moong Green Whole - 100% Natural & Farm Fresh",
+    "category": "Dals",
+    "price": 125,
+    "oldPrice": 170,
+    "discount": "26%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/3_2f5647e3-dc25-4a2e-843c-8e91c765cbc5.jpg?v=1697093107&width=600"
+  },
+  {
+    "id": 33,
+    "name": "Kabuli Chana (Chickpeas) - 100% Natural & Farm Fresh",
+    "category": "Pulses & Cereals",
+    "price": 150,
+    "oldPrice": 175,
+    "discount": "14%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/1_81a5191a-4273-44a3-b1e5-c507adb4cf5a.jpg?v=1697091401&width=600"
+  },
+  {
+    "id": 34,
+    "name": "Masoor Dal Red Split - 100% Natural & Farm Fresh",
+    "category": "Dals",
+    "price": 130,
+    "oldPrice": 170,
+    "discount": "24%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/1_04a4028c-1c34-4d4e-acc0-931172163420.jpg?v=1697091602&width=600"
+  },
+  {
+    "id": 35,
+    "name": "Chana Brown (Desi Chana) - 100% Natural & Farm Fresh",
+    "category": "Pulses & Cereals",
+    "price": 90,
+    "oldPrice": 110,
+    "discount": "18%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 1,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/04_f1148de1-4ed6-4c73-8bf1-670fb51f8aca.jpg?v=1697091762&width=600"
+  },
+  {
+    "id": 36,
+    "name": "Moong Dal Green Split - 100% Natural & Farm Fresh",
+    "category": "Dals",
+    "price": 130,
+    "oldPrice": 170,
+    "discount": "24%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/1_3fad886f-8799-490e-a7a0-3ace1ecc123c.jpg?v=1697090936&width=600"
+  },
+  {
+    "id": 37,
+    "name": "Urad Dal White Split - 100% Natural & Farm Fresh",
+    "category": "Dals",
+    "price": 130,
+    "oldPrice": 170,
+    "discount": "24%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/1_811848e8-6eef-4ff7-89f1-af48121d25f3.jpg?v=1697092964&width=600"
+  },
+  {
+    "id": 38,
+    "name": "Chana Dal (Split Bengal Gram) - 100% Natural & Farm Fresh",
+    "category": "Dals",
+    "price": 100,
+    "oldPrice": 130,
+    "discount": "23%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/1_b687043a-0ea2-4424-80f9-f42d3716dd2c.jpg?v=1697091227&width=600"
+  },
+  {
+    "id": 39,
+    "name": "Masoor Black Whole - 100% Natural & Farm Fresh",
+    "category": "Dals",
+    "price": 130,
+    "oldPrice": 170,
+    "discount": "24%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/1.jpg?v=1697092757&width=600"
+  },
+  {
+    "id": 40,
+    "name": "Chana Green - 100% Natural & Farm Fresh",
+    "category": "Pulses & Cereals",
+    "price": 110,
+    "oldPrice": 125,
+    "discount": "12%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/3_5f8eaa4b-c416-439e-b503-7f6ee74a9ed1.jpg?v=1697092687&width=600"
+  },
+  {
+    "id": 41,
+    "name": "Roasted Chana Dal - 100% Natural & Farm Fresh",
+    "category": "Dals",
+    "price": 75,
+    "oldPrice": 100,
+    "discount": "25%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/1_2c2a17bc-9185-4d33-ae92-5ca340478637.jpg?v=1697091719&width=600"
+  },
+  {
+    "id": 42,
+    "name": "Moth Beans (Matki) - 100% Natural & Farm Fresh",
+    "category": "Pulses & Cereals",
+    "price": 130,
+    "oldPrice": 170,
+    "discount": "24%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/3_ba318299-0338-47ef-93c1-f492610b4548.jpg?v=1697092987&width=600"
+  },
+  {
+    "id": 43,
+    "name": "Pancharatna Dal (Mix Dal) - 100% Natural & Farm Fresh",
+    "category": "Dals",
+    "price": 130,
+    "oldPrice": 170,
+    "discount": "24%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/1_9381288a-d755-4f82-89cd-c004ef4a2366.jpg?v=1697091712&width=600"
+  },
+  {
+    "id": 44,
+    "name": "Cowpea White - 100% Natural & Farm Fresh",
+    "category": "Pulses & Cereals",
+    "price": 110,
+    "oldPrice": 150,
+    "discount": "27%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 1,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/1_0d647594-a8e1-499a-b6ec-0d8d7c267753.jpg?v=1697092723&width=600"
+  },
+  {
+    "id": 45,
+    "name": "Rajma Chitra (Kidney Beans) - 100% Natural & Farm Fresh",
+    "category": "Pulses & Cereals",
+    "price": 160,
+    "oldPrice": 200,
+    "discount": "20%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/1_ad36f96c-2af6-4694-ba0d-d20107343360.jpg?v=1697092397&width=600"
+  },
+  {
+    "id": 46,
+    "name": "Rajma Red Jammu - 100% Natural & Farm Fresh",
+    "category": "Pulses & Cereals",
+    "price": 150,
+    "oldPrice": 175,
+    "discount": "14%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/3_d9057945-9b69-4d67-9ef8-3670a3709b2d.jpg?v=1697092885&width=600"
+  },
+  {
+    "id": 47,
+    "name": "Cowpea Red - 100% Natural & Farm Fresh",
+    "category": "Pulses & Cereals",
+    "price": 140,
+    "oldPrice": 150,
+    "discount": "7%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/3_3f6000c8-a91a-4d40-8255-5535d02f478f.jpg?v=1697091503&width=600"
+  },
+  {
+    "id": 48,
+    "name": "Urad Black Whole - 100% Natural & Farm Fresh",
+    "category": "Dals",
+    "price": 130,
+    "oldPrice": 170,
+    "discount": "24%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/3_9359f01a-ce04-4af1-b888-16b15345810f.jpg?v=1697092882&width=600"
+  },
+  {
+    "id": 49,
+    "name": "Urad White Whole - 100% Natural & Farm Fresh",
+    "category": "Dals",
+    "price": 130,
+    "oldPrice": 170,
+    "discount": "24%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/3-1.jpg?v=1697092935&width=600"
+  },
+  {
+    "id": 50,
+    "name": "Rajma Red Small Size - 100% Natural & Farm Fresh",
+    "category": "Pulses & Cereals",
+    "price": 150,
+    "oldPrice": 180,
+    "discount": "17%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/3_1ec25271-79ff-4621-9c41-7f23a49e7c60.jpg?v=1697091271&width=600"
+  },
+  {
+    "id": 51,
+    "name": "Urad Dal Black Split - 100% Natural & Farm Fresh",
+    "category": "Dals",
+    "price": 130,
+    "oldPrice": 170,
+    "discount": "24%",
+    "quantity": "500 Gms",
+     "optionname":"size",
+     "options":["500gm","1kg","2kg"],
+    "reviews": 0,
+    "image": "https://www.kediaorganic.com/cdn/shop/products/1_2efdd14e-ad4c-4783-8354-0e8c7aac649f.jpg?v=1697091264&width=600"
+  },
+  {
+    "id": 51,
+    "name": "Adulsa Cold Pressed Juice",
+    "category": "coldpressedjuices",
+    "price": 500,
+    "oldPrice": 600,
+    "discount": "17%",
+     "optionname":"size",
+     "options":["pack of 10 shots","pack of 20 shots"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/adulsa.jpg?v=1756802134&width=600"
+  },
+
+  {
+    "id": 52,
+    "name": "Aloevera Cold Pressed Juice",
+    "category": "coldpressedjuices",
+    "price": 600,
+    "oldPrice": 600,
+    "discount": "0%",
+      "optionname":"size",
+     "options":["pack of 10 shots","pack of 20 shots"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/aloevera.jpg?v=1756802171&width=600"
+  },
+
+  {
+    "id": 53,
+    "name": "Amla Cold Pressed Juice",
+    "category": "coldpressedjuices",
+    "price": 600,
+    "oldPrice": 600,
+    "discount": "0%",
+      "optionname":"size",
+     "options":["pack of 10 shots","pack of 20 shots"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/amla.jpg?v=1756802119&width=600"
+  },
+
+  {
+    "id": 54,
+    "name": "Ashwagandha Cold Pressed Juice",
+    "category": "coldpressedjuices",
+    "price": 600,
+    "oldPrice": 600,
+    "discount": "0%",
+      "optionname":"size",
+     "options":["pack of 10 shots","pack of 20 shots"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/ashwandha.jpg?v=1756802155&width=600"
+  },
+
+  {
+    "id": 55,
+    "name": "Costus Igneus Cold Pressed Juice",
+    "category": "coldpressedjuices",
+    "price": 500,
+    "oldPrice": 600,
+    "discount": "17%",
+      "optionname":"size",
+     "options":["pack of 10 shots","pack of 20 shots"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/adulsa.jpg?v=1756802134&width=600"
+  },
+
+  {
+    "id": 56,
+    "name": "Giloy Cold Pressed Juice",
+    "category": "coldpressedjuices",
+    "pack": "Pack of 10 Shots",
+    "price": 500,
+    "oldPrice": 600,
+    "discount": "17%",
+      "optionname":"size",
+     "options":["pack of 10 shots","pack of 20 shots"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/Icon_bg-1500_30458d2e-91b9-4178-a0e1-905aaddcb598.png?v=1697092011&width=600"
+  },
+
+  {
+    "id": 57,
+    "name": "Papaya Leaf Cold Pressed Juice",
+    "category": "coldpressedjuices",
+    "price": 600,
+    "oldPrice": 600,
+    "discount": "0%",
+    "reviews": 3,
+      "optionname":"size",
+     "options":["pack of 10 shots","pack of 20 shots"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/papaya.jpg?v=1756802100&width=600"
+  },
+
+  {
+    "id": 58,
+    "name": "Tulsi Cold Pressed Juice",
+    "category": "coldpressedjuices",
+    "price": 500,
+    "oldPrice": 600,
+    "discount": "17%",
+      "optionname":"size",
+     "options":["pack of 10 shots","pack of 20 shots"],
+    "image": "https://www.kediaorganic.com/cdn/shop/files/tulsi_122469f0-a794-4863-b37c-aca45600af73.jpg?v=1756802032&width=600"
+  },
+
+  {
+    "id": 59,
+    "name": "Wheatgrass Cold Pressed Juice",
+    "category": "coldpressedjuices",
+    "price": 600,
+    "oldPrice": 600,
+    "discount": "0%",
+    "reviews": 1,
+      "optionname":"size",
+     "options":["pack of 10 shots","pack of 20 shots"],
+    "image": "https://www.kediaorganic.com/cdn/shop/products/3_4bc95df7-1b30-4740-8e08-9f9f1cb4c30f.jpg?v=1697091450&width=600"
+  }
+
+]

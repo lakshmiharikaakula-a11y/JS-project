@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Watermelon Kedia",
+    "description": "Watermelon - 100% Natural & Farm Fresh",
+    "salePrice": "350",
+    "regularPrice": "500",
+    "subtitle": "Fresh Seasonal Watermelon – Sweet & Juicy",
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03401.jpg?v=1697091063&width=600"
+  },
+
+  {
+    "title": "Karbuja Kedia",
+    "description": "Karbuja / Muskmelon - Farm Fresh Organic Fruit",
+    "salePrice": "420",
+    "regularPrice": "650",
+    "subtitle": "Naturally Ripened Sweet Karbuja",
+    "image": "https://www.kediaorganic.com/cdn/shop/products/DSC03479.jpg?v=1697091201&width=600"
+  },
+
+  {
+    "title": "Jamun Kedia",
+    "description": "Jamun / Black Plum - 100% Natural & Farm Fresh",
+    "salePrice": "600",
+    "regularPrice": "850",
+    "subtitle": "Jamun (Indian Blackberry) – Fresh Seasonal Jamun",
+    "image": "https://www.kediaorganic.com/cdn/shop/files/download.jpg?v=1697091008"
+  },
+
+  {
+    "title": "Mango Kedia",
+    "description": "Alphonso Mangoes - Naturally Ripened & Organic",
+    "salePrice": "850",
+    "regularPrice": "1200",
+    "subtitle": "Sweet Seasonal Mangoes Directly From Farms",
+    "image": "https://www.kediaorganic.com/cdn/shop/files/KESAR.jpg?v=1697092870"
+  },
+  {
+    "title": "Lychee Kedia",
+    "description": "Fresh Lychee - Farm Fresh & Chemical Free",
+    "salePrice": "500",
+    "regularPrice": "700",
+    "subtitle": "Premium Juicy Seasonal Lychee",
+    "image": "https://www.kediaorganic.com/cdn/shop/files/lychee-4k-in-hd-for-pc-wallpaper-preview.jpg?v=1745653352&width=600"
+  }
+]

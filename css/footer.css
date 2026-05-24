@@ -1,0 +1,256 @@
+.footer-section{
+    background-color:#005c38;
+    padding: 60px 8%;
+    color:black;
+    font-family: Arial, sans-serif;
+}
+.footer-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #ddd;
+    flex-wrap: wrap;
+}
+.footer-logo img{
+    max-width: 170px;
+}
+.footer-joinus h3{
+    font-size: 22px;
+    margin-bottom: 15px;
+    color: #222;
+}
+
+.joinus_form{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.joinus_form input[type="email"]{
+    padding: 12px 15px;
+    width: 280px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    font-size: 15px;
+}
+.joinus_form input[type="button"]{
+    padding: 12px 25px;
+    border: none;
+    background-color:#f26b00;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    transition: 0.3s ease;
+}
+.joinus_form input[type="button"]:hover{
+    background-color: #556b1b;
+}
+.footer-middle{
+    padding: 50px 0;
+}
+.footer-columns{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(220px,1fr));
+    gap: 40px;
+    margin-bottom: 40px;
+    padding:30px;
+    background-color: #ccc;
+    border-radius: 30px;
+}
+.footer-col h3{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #111;
+}
+
+.footer-col ul{
+    list-style: none;
+    padding: 0;
+}
+
+.footer-col ul li{
+    margin-bottom: 12px;
+}
+.footer-col ul li a{
+    text-decoration: none;
+    color:black;
+    transition: 0.3s ease;
+    font-size: 15px;
+}
+
+.footer-col ul li a:hover{
+    color: #6b8e23;
+    padding-left: 5px;
+}
+
+.footer-col p{
+    color:black;
+    line-height: 1.8;
+    font-size: 15px;
+   
+}
+.footer-about{
+    margin-bottom: 35px; background-color: whitesmoke;
+     
+      border-radius:30px;
+}
+
+.footer-about p{
+    color: #555;
+    line-height: 1.9;
+    font-size: 15px;
+     padding:30px;
+  
+}
+.footer-social{
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-social a{
+    width: 40px;
+    height: 40px;
+    background-color:sienna;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    transition: 0.3s ease;
+}
+.footer-social a:hover{
+    transform: translateY(-5px);
+    background-color: #556b1b;
+}
+
+/* Footer Bottom */
+.footer-bottom{
+    border-top: 1px solid #ddd;
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+     background:#f26b00;
+     padding:20px;
+     border-radius: 30px;
+}
+.footer-bottom p{
+    font-size: 15px;
+    color:black;
+}
+.footer-links{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    flex-wrap: wrap;
+    
+}
+
+.footer-links li a{
+    text-decoration: none;
+    color:black;
+    font-size: 15px;
+    transition: 0.3s ease;
+}
+
+.footer-links li a:hover{
+    color: #6b8e23;
+}
+
+/* Responsive */
+@media(max-width:768px){
+
+    .footer-top{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .joinus_form{
+        width: 100%;
+    }
+
+    .joinus_form input[type="email"]{
+        width: 100%;
+    }
+
+    .footer-bottom{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .footer-links{
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+@media(max-width:480px){
+
+    .footer-section{
+        padding:30px 15px;
+    }
+
+    .footer-logo img{
+        max-width:140px;
+    }
+
+    .footer-columns{
+        grid-template-columns: 1fr;
+        padding:15px;
+    }
+
+    .footer-col h3{
+        font-size:18px;
+    }
+    .footer-col p{
+        font-size:14px;
+        line-height:1.6;
+    }
+
+    .footer-about{
+        border-radius:20px;
+    }
+
+    .footer-about p{
+        font-size:14px;
+        padding:15px;
+        line-height:1.7;
+    }
+
+    .footer-social{
+        gap:10px;
+    }
+    .footer-social a{
+        width:35px;
+        height:35px;
+    }
+
+    .footer-bottom{
+        padding:15px;
+        border-radius:20px;
+    }
+
+    .footer-bottom p{
+        font-size:13px;
+    }
+
+    .footer-links li a{
+        font-size:13px;
+    }
+      .joinus_form input[type="email"],
+    .joinus_form input[type="button"]{
+        font-size:14px;
+        padding:10px;
+    }
+
+}

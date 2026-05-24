@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Amit Patel",
+        "role":"School Teacher",
+        "review":"As a busy teacher, I rely on Kedia for groceries.",
+        "image":"https://www.kediaorganic.com/cdn/shop/files/ChatGPT_Image_Jul_4_2025_04_50_25_PM.png?v=1751628042&width=80",
+        "rating":5
+    },
+    {
+        "name":"Priya Sharma",
+        "role":"Doctor",
+        "review":"Amazing quality and fast delivery service.",
+        "image":"https://www.kediaorganic.com/cdn/shop/files/portrait-of-a-person-in-multiple-colored-light.jpg?v=1763960218&width=80",
+        "rating":5
+    },
+    {
+        "name":"Rahul Verma",
+        "role":"Engineer",
+        "review":"Very fresh vegetables and great customer support.",
+        "image":"https://www.kediaorganic.com/cdn/shop/files/ChatGPT_Image_Jul_4_2025_04_52_42_PM.png?v=1751628178&width=80",
+        "rating":4
+    }
+]

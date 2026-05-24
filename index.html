@@ -1,0 +1,276 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+</head>
+<body>
+   <div id="navbar-container"></div>
+    
+    <!-- ----------------------hero sections--------------------------- -->
+ <div id="hero-all-section">
+<div class="hero-page">
+    <div class="herocontainer">
+    <div class="hero-video">
+    <video controls autoplay muted loop playsinline>
+        <source src="https://www.kediaorganic.com/cdn/shop/videos/c/vp/27b5ea2c085343428cd909c40917f590/27b5ea2c085343428cd909c40917f590.HD-1080p-7.2Mbps-79873693.mp4?v=0" type="video/mp4"></source>
+    </video>
+    </div>
+    <div class="hero-content">
+        <h3>Farm Fresh Alphonso Mangoes Delivered to You</h3>
+        <p>Handpicked from Devgad & Ratnagiri</p>
+        <p>Naturally Sweet. 100% Chemical Free.</p>
+        <button>Order Fresh Mangoes</button>
+    </div>
+    </div>
+ </div>
+
+ <!-- --------------------card slider section------------------------- -->
+ 
+ <div class="card-section">
+    <div class="card-section-content">
+        <div class="card-section-headingcontent">
+            <h2 class="card-section-heading">   
+              🥭 Kedia Mango Mahotsav
+            </h2>
+            <p class="card-section-para">
+                <a href="#">Premium mango varieties, naturally ripened and delivered fresh to your doorstep.</a>
+            </p>
+        </div>
+        <div class="card-section-button">
+            <button><a href="#">Shop Now</a></button>
+        </div>
+    </div>
+    <div class="cards-section-slider">
+        <div class="card-carousal" id="card-carousal">
+        </div>
+        <div class="card-btn">
+        <button id="prev"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="15 18 9 12 15 6"></polyline>
+</svg></button> 
+         <button id="next"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="9 18 15 12 9 6"></polyline>
+</svg></button> 
+</div>
+    </div>
+    </div>
+
+    <!-- --------------add to cart page model for choose options------------------- -->
+ <div class="overlay" id="overlay">
+    <div class="modal">
+        <!-- leftside -->
+    <div class="modal-left">
+        <img id="modal-image"/>
+        <img id="modal-hoverimage"/>
+    </div>
+    <!-- rightside -->
+    <div class="modal-right">
+        <h1 id="modal-title"></h1>
+        <p id="modal-price"></p>
+        <p>Taxes included. Shipping calculated at checkout.</p>
+        <div>
+        <p>Dozen</p>
+        <button id="option1"></button>
+        <button id="option2"></button>
+        <button id="option3"></button>
+        </div>
+        <div class="btn-addtocart">
+            <div class="quantity">
+                <button id="increase-Count">+</button>
+                <button id="show-number">1</button>
+                <button id="decrease-Count">-</button>
+            </div>
+            <div class="btn-cart" >
+                <button id="btn-cart"> add to cart</button>
+            </div>
+        </div>
+    </div>
+    <button id="close-btn">X</button>
+    </div>
+     </div>
+
+<!-- -------------add to cart overlay for cart items---------------- -->
+ <div class="cart-overlay" id="cart-overlay">
+    <div class="cart-overlaymodal">
+        <!-- ---------cart-header------ -->
+        <div class="cart-header">
+            <h2>
+                Your Cart
+                <span id="cart-count">(0)</span>
+            </h2>
+            <button id="close-cart">X</button>
+        </div>
+         <!--------- CART ITEMS ----------------->
+        <div id="cart-items">
+
+        </div>
+        <!-- ----------cart footer---------- -->
+         <div class="cart-footer">
+            <h3>
+                Total  ₹ :<span id="cart-total">0 </span> 
+            </h3>
+            <button class="checkout-btn">Checkout</button>
+        </div>
+    </div>
+ </div>
+ 
+ <!-- ---------------hero slider section----------->
+<div class="slider-wrapper">
+
+ <div class="farm-slider-container">
+    <!-- -----------Main slider-------------- -->
+     <div class="farm-slider" id="farm-slider">
+        <!-- ---slide1 -->
+         <div class="farm-slide active">
+            <!-- ------big card------ -->
+             <div class="big-card">
+                <div class="plain-card-content">
+                <button>Shop Seasonal Fruits</button>
+                <h1>Season’s Fresh Picks</h1>
+                <p>Fresh mangoes, lychee, jamun & summer fruits — delivered across Mumbai.</p>
+                <button>Buy Seasonal</button>
+                </div>
+             </div>
+             <div class="small-card">
+                    <!-- cards -->
+                     <div class="product-card-slider" id="product-card-slider">
+                        
+                     </div>
+             </div>
+             </div>
+        <!-------slide2--------->
+        <div class="farm-slide">
+            <div class="big-card">
+            <!---- big card ----->
+            <img src="https://www.kediaorganic.com/cdn/shop/files/B0125.MP4_snapshot_00.07__2022.02.04_19.48.01_0903f6b9-995d-4d20-b0a8-b72793502e80.jpg?v=1753958050&width=1780"/>
+            <div class="big-card-content">
+                <h3>Super Deals</h3>
+                <h2>Eat Healthy. Stay</h1>
+                <h2 class="word-slider">
+                    <span>Rooted.</span>
+                    <span>Strong</span>
+                    <span>Happy</span>
+                </h2>
+                <h3>Naturally Grown | Carefully Packed | Delivered Fresh.</h3>
+                <button>Discover Desi Cow Essentials</button>
+            </div>
+            </div>
+            <div class="small-card">
+                  <div class="small-card-content">
+                    <h3>Up To 25% OFF on Ghee, Oils & Pantry Staples</h2>
+                    <img src="https://www.kediaorganic.com/cdn/shop/files/ghee.webp?v=1756726800&width=550" alt="kedia organic">
+                    <button> View Offers</button>
+                </div>
+            </div>
+        </div>
+        <!-- ---------------slide 3-------------------------- -->
+         <div class="farm-slide">
+            <!-- --------big-card--------- -->
+             <div class="big-card">
+                <img src="https://www.kediaorganic.com/cdn/shop/files/IMG_20190308_174918_1_1_c3acbf5d-0107-43df-b9f3-3cf4c6b8f91e.jpg?v=1757056360&width=550">
+                <div class="big-card-content">
+                    <h3>Fresh From the Farm</h3>
+                    <h2>Eat Clean. Live Pure.</h2>
+                    <button>Shop Fresh Staples</button>
+                </div>
+            </div>
+            <div class="small-card">
+                <div class="small-card-content">
+                <h3>Up to 30% OFF on Fruits & Vegetables</h3>
+                <img src="https://www.kediaorganic.com/cdn/shop/files/fruit-vegetables2.jpg?v=1756890576&width=550"/>
+                <button>View Offers</button>
+                </div>
+            </div>
+         </div>
+         </div>
+     </div>
+     <div class="slider-arrows">
+        <button id="prev1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+         <polyline points="15 18 9 12 15 6"></polyline>
+        </svg>
+        </button>
+        <button id="next1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="9 18 15 12 9 6"></polyline>
+        </svg>
+        </button>
+        </div>
+</div>
+<!-- --------------category cards--------------- -->
+ <section class="categorycard-section">
+    <h2 class="heading">Shop By Category</h2>
+    <button class="slide-btn prev-btn" id="prev-btn2">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="15 18 9 12 15 6"></polyline>
+    </svg>
+    </button>
+    <div class="category-wrapper">
+    <div class="category-container" id="category-container">
+
+ </div>
+ </div>
+ <button class="slide-btn next-btn" id="next-btn2">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="9 18 15 12 9 6"></polyline>
+</svg>
+    </button>
+ </section>
+ <!-- ---------------Features section----------------------------------- -->
+  <section  class="featured-section">
+       <h1>As Featured In & Certified By</h1>
+       <div class="logo-slider">
+        <div class="logo-track">
+            <img src="https://www.kediaorganic.com/cdn/shop/files/lg1.png?v=1751605316&width=100">
+            <img src="https://www.kediaorganic.com/cdn/shop/files/lg2.png?v=1751605337&width=100">
+            <img src="https://www.kediaorganic.com/cdn/shop/files/lg3.png?v=1751605359&width=100">
+            <img src="https://www.kediaorganic.com/cdn/shop/files/lg4.png?v=1751605375&width=100">
+            <img src="https://www.kediaorganic.com/cdn/shop/files/lg5.png?v=1751605400&width=100">
+
+            <!-- duplicate logos -->
+            <img src="https://www.kediaorganic.com/cdn/shop/files/lg1.png?v=1751605316&width=100">
+            <img src="https://www.kediaorganic.com/cdn/shop/files/lg2.png?v=1751605337&width=100">
+            <img src="https://www.kediaorganic.com/cdn/shop/files/lg3.png?v=1751605359&width=100">
+            <img src="https://www.kediaorganic.com/cdn/shop/files/lg4.png?v=1751605375&width=100">
+            <img src="https://www.kediaorganic.com/cdn/shop/files/lg5.png?v=1751605400&width=100">
+        </div>
+       </div>
+  </section>
+
+  <!-- --------------------review section------------------------------------ -->
+<section class="testimonal-section">
+ <div class="testimonal-header">
+        <h1>Hear It From Our Happy Customers</h1>
+        <div class="testimonal-buttons">
+            <button id="prev-review">
+                <svg xmlns="http://w3.org" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="19" y1="12" x2="5" y2="12"></line>
+                <polyline points="12 19 5 12 12 5"></polyline>
+                </svg>
+            </button>
+            <button id="next-review">
+               <svg xmlns="http://w3.org" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+            </button>
+        </div>
+    </div>
+        <div class="testimonal-wrapper"> 
+            <div class="testimonal-slider" id="testimonal-slider">
+            </div>
+        </div>  
+    </section>
+    <!-- ----------footerplaceholder----------- -->
+     <div id="footer"></div>
+</div>
+<script src="./js/cart.js"></script>
+<script src="./js/Navbar.js" type="text/javascript"></script>
+<script src="./js/index.js" type="text/javascript"></script>
+<script src="./js/footer.js"></script>
+
+</body>
+</html>
+

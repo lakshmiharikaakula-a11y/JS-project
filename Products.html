@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products</title>
+    <link rel="stylesheet" href="./css/Products.css"/>
+    
+</head>
+<body>
+    <div id="navbar-container"></div>
+    <h1 id="category-title">
+    </h1>
+    <div id="card-count">
+
+    </div>
+      <!-- Products Container -->
+  <div id="products-container">
+
+  </div>
+  <!-- --------------add to cart page model for choose options------------------- -->
+ <div class="overlay" id="overlay">
+    <div class="modal">
+        <!-- leftside -->
+    <div class="modal-left">
+        <img id="modal-image"/>
+        <img id="modal-hoverimage"/>
+    </div>
+    <!-- rightside -->
+    <div class="modal-right">
+        <h1 id="modal-title"></h1>
+        <p id="modal-price"></p>
+        <p>Taxes included. Shipping calculated at checkout.</p>
+        <div>
+        <p id="modaloption-name"></p>
+        <button id="option1"></button>
+        <button id="option2"></button>
+        <button id="option3"></button>
+        </div>
+        <div class="btn-addtocart">
+            <div class="quantity">
+                <button id="increase-Count">+</button>
+                <button id="show-number">1</button>
+                <button id="decrease-Count">-</button>
+            </div>
+            <div class="btn-cart" >
+                <button id="btn-cart"> add to cart</button>
+            </div>
+        </div>
+    </div>
+    <button id="close-btn">X</button>
+    </div>
+     </div>
+
+<!-- -------------add to cart overlay for cart items---------------- -->
+ <div class="cart-overlay" id="cart-overlay">
+    <div class="cart-overlaymodal">
+        <!-- ---------cart-header------ -->
+        <div class="cart-header">
+            <h2>
+                Your Cart
+                <span id="cart-count">(0)</span>
+            </h2>
+            <button id="close-cart">X</button>
+        </div>
+         <!--------- CART ITEMS ----------------->
+        <div id="cart-items">
+
+        </div>
+        <!-- ----------cart footer---------- -->
+         <div class="cart-footer">
+            <h3>
+                Total :₹ <span id="cart-total">0</span>
+            </h3>
+            <button class="checkout-btn">Checkout</button>
+        </div>
+    </div>
+ </div>
+ <!-- -----------------footer placeholder------------ -->
+  <div id="footer"></div>
+
+
+  <!-- -----------navbar fuctionality---------- -->
+   <script src="./js/Navbar.js"></script>
+   <!-- cart functionality ------>
+   <script src="./js/cart.js"></script>
+  <!-- ---------product functionality----- -->
+  <script src="./js/Products.js"></script>
+  <!-- ---------------footer functionality--------------- -->
+  <script src="./js/footer.js"></script>
+   
+  
+</body>
+</html>
